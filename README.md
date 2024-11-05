@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-Portfolio-blue)](https://akmalmhd1211.com)
+[![Website](https://img.shields.io/badge/Website-Portfolio-blue)](https://akmalmoc.neocities.org/my/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akmalmhd)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:akmalmhd1211@gmail.com)
 
